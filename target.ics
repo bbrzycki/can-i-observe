@@ -1,0 +1,244 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:(l\, b) = (0.0\, 0.0) \n\nWeather: https://www.google.com/search?q=green+bank+weather \n\nGBT Pizza Plot: https://www.gb.nrao.edu/~rmaddale/Weather/AllOverviews.html#RestOverview \n\nGBT Guide: https://github.com/UCBerkeleySETI/bl_docs/wiki/NEW-GBT-Observing-guide
+DTEND:20231128T221913Z
+LOCATION:Green Bank\, WV
+DTSTART:20231128T145513Z
+SUMMARY:Target is in the sky!
+UID:20395f20-6fc5-4007-9a73-38596522f958@2039.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(l\, b) = (0.0\, 0.0) \n\nWeather: https://www.google.com/search?q=green+bank+weather \n\nGBT Pizza Plot: https://www.gb.nrao.edu/~rmaddale/Weather/AllOverviews.html#RestOverview \n\nGBT Guide: https://github.com/UCBerkeleySETI/bl_docs/wiki/NEW-GBT-Observing-guide
+DTEND:20231130T221113Z
+LOCATION:Green Bank\, WV
+DTSTART:20231130T144713Z
+SUMMARY:Target is in the sky!
+UID:6ddfc25f-f7ac-4763-a551-3abfb777ff45@6ddf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(l\, b) = (0.0\, 0.0) \n\nWeather: https://www.google.com/search?q=green+bank+weather \n\nGBT Pizza Plot: https://www.gb.nrao.edu/~rmaddale/Weather/AllOverviews.html#RestOverview \n\nGBT Guide: https://github.com/UCBerkeleySETI/bl_docs/wiki/NEW-GBT-Observing-guide
+DTEND:20231207T214313Z
+LOCATION:Green Bank\, WV
+DTSTART:20231207T142013Z
+SUMMARY:Target is in the sky!
+UID:5b042906-cf34-4e83-8267-857020d8c9c7@5b04.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(l\, b) = (0.0\, 0.0) \n\nWeather: https://www.google.com/search?q=green+bank+weather \n\nGBT Pizza Plot: https://www.gb.nrao.edu/~rmaddale/Weather/AllOverviews.html#RestOverview \n\nGBT Guide: https://github.com/UCBerkeleySETI/bl_docs/wiki/NEW-GBT-Observing-guide
+DTEND:20231222T204413Z
+LOCATION:Green Bank\, WV
+DTSTART:20231222T132113Z
+SUMMARY:Target is in the sky!
+UID:46fb362d-f546-4c58-a91b-855491bd5805@46fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(l\, b) = (0.0\, 0.0) \n\nWeather: https://www.google.com/search?q=green+bank+weather \n\nGBT Pizza Plot: https://www.gb.nrao.edu/~rmaddale/Weather/AllOverviews.html#RestOverview \n\nGBT Guide: https://github.com/UCBerkeleySETI/bl_docs/wiki/NEW-GBT-Observing-guide
+DTEND:20231203T215913Z
+LOCATION:Green Bank\, WV
+DTSTART:20231203T143613Z
+SUMMARY:Target is in the sky!
+UID:035b73d6-3e63-4145-88ae-5cda61657662@035b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(l\, b) = (0.0\, 0.0) \n\nWeather: https://www.google.com/search?q=green+bank+weather \n\nGBT Pizza Plot: https://www.gb.nrao.edu/~rmaddale/Weather/AllOverviews.html#RestOverview \n\nGBT Guide: https://github.com/UCBerkeleySETI/bl_docs/wiki/NEW-GBT-Observing-guide
+DTEND:20231210T213113Z
+LOCATION:Green Bank\, WV
+DTSTART:20231210T140813Z
+SUMMARY:Target is in the sky!
+UID:793e75cb-48ee-497a-89f8-3c98b09b964d@793e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(l\, b) = (0.0\, 0.0) \n\nWeather: https://www.google.com/search?q=green+bank+weather \n\nGBT Pizza Plot: https://www.gb.nrao.edu/~rmaddale/Weather/AllOverviews.html#RestOverview \n\nGBT Guide: https://github.com/UCBerkeleySETI/bl_docs/wiki/NEW-GBT-Observing-guide
+DTEND:20231225T203213Z
+LOCATION:Green Bank\, WV
+DTSTART:20231225T130913Z
+SUMMARY:Target is in the sky!
+UID:a69eaaf7-8c2d-498a-81a2-1a8ec1a8ccb0@a69e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(l\, b) = (0.0\, 0.0) \n\nWeather: https://www.google.com/search?q=green+bank+weather \n\nGBT Pizza Plot: https://www.gb.nrao.edu/~rmaddale/Weather/AllOverviews.html#RestOverview \n\nGBT Guide: https://github.com/UCBerkeleySETI/bl_docs/wiki/NEW-GBT-Observing-guide
+DTEND:20231219T205613Z
+LOCATION:Green Bank\, WV
+DTSTART:20231219T133313Z
+SUMMARY:Target is in the sky!
+UID:59b12761-d1a2-4aa2-b895-5ba42c637435@59b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(l\, b) = (0.0\, 0.0) \n\nWeather: https://www.google.com/search?q=green+bank+weather \n\nGBT Pizza Plot: https://www.gb.nrao.edu/~rmaddale/Weather/AllOverviews.html#RestOverview \n\nGBT Guide: https://github.com/UCBerkeleySETI/bl_docs/wiki/NEW-GBT-Observing-guide
+DTEND:20231208T213913Z
+LOCATION:Green Bank\, WV
+DTSTART:20231208T141613Z
+SUMMARY:Target is in the sky!
+UID:78e4c523-af83-4a54-8dd4-cfc58899ed3d@78e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(l\, b) = (0.0\, 0.0) \n\nWeather: https://www.google.com/search?q=green+bank+weather \n\nGBT Pizza Plot: https://www.gb.nrao.edu/~rmaddale/Weather/AllOverviews.html#RestOverview \n\nGBT Guide: https://github.com/UCBerkeleySETI/bl_docs/wiki/NEW-GBT-Observing-guide
+DTEND:20231218T210013Z
+LOCATION:Green Bank\, WV
+DTSTART:20231218T133713Z
+SUMMARY:Target is in the sky!
+UID:264c0732-3fc2-4428-b4ea-732e19dad36d@264c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(l\, b) = (0.0\, 0.0) \n\nWeather: https://www.google.com/search?q=green+bank+weather \n\nGBT Pizza Plot: https://www.gb.nrao.edu/~rmaddale/Weather/AllOverviews.html#RestOverview \n\nGBT Guide: https://github.com/UCBerkeleySETI/bl_docs/wiki/NEW-GBT-Observing-guide
+DTEND:20231214T211613Z
+LOCATION:Green Bank\, WV
+DTSTART:20231214T135213Z
+SUMMARY:Target is in the sky!
+UID:fb0a6012-4a40-409a-b5d7-5b6dd3f1f193@fb0a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(l\, b) = (0.0\, 0.0) \n\nWeather: https://www.google.com/search?q=green+bank+weather \n\nGBT Pizza Plot: https://www.gb.nrao.edu/~rmaddale/Weather/AllOverviews.html#RestOverview \n\nGBT Guide: https://github.com/UCBerkeleySETI/bl_docs/wiki/NEW-GBT-Observing-guide
+DTEND:20231204T215513Z
+LOCATION:Green Bank\, WV
+DTSTART:20231204T143213Z
+SUMMARY:Target is in the sky!
+UID:22f5cf37-2007-4b74-875b-b2a763d0cd16@22f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(l\, b) = (0.0\, 0.0) \n\nWeather: https://www.google.com/search?q=green+bank+weather \n\nGBT Pizza Plot: https://www.gb.nrao.edu/~rmaddale/Weather/AllOverviews.html#RestOverview \n\nGBT Guide: https://github.com/UCBerkeleySETI/bl_docs/wiki/NEW-GBT-Observing-guide
+DTEND:20231223T204013Z
+LOCATION:Green Bank\, WV
+DTSTART:20231223T131713Z
+SUMMARY:Target is in the sky!
+UID:b35a8f55-2f0a-4c98-aa10-b4ee45d8203b@b35a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(l\, b) = (0.0\, 0.0) \n\nWeather: https://www.google.com/search?q=green+bank+weather \n\nGBT Pizza Plot: https://www.gb.nrao.edu/~rmaddale/Weather/AllOverviews.html#RestOverview \n\nGBT Guide: https://github.com/UCBerkeleySETI/bl_docs/wiki/NEW-GBT-Observing-guide
+DTEND:20231226T202913Z
+LOCATION:Green Bank\, WV
+DTSTART:20231226T130513Z
+SUMMARY:Target is in the sky!
+UID:180ab6bd-b36a-40ce-ac1b-cb18eb1ac6cd@180a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(l\, b) = (0.0\, 0.0) \n\nWeather: https://www.google.com/search?q=green+bank+weather \n\nGBT Pizza Plot: https://www.gb.nrao.edu/~rmaddale/Weather/AllOverviews.html#RestOverview \n\nGBT Guide: https://github.com/UCBerkeleySETI/bl_docs/wiki/NEW-GBT-Observing-guide
+DTEND:20231205T215113Z
+LOCATION:Green Bank\, WV
+DTSTART:20231205T142813Z
+SUMMARY:Target is in the sky!
+UID:946f1398-c44d-4994-9168-71b1f0cfb9c2@946f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(l\, b) = (0.0\, 0.0) \n\nWeather: https://www.google.com/search?q=green+bank+weather \n\nGBT Pizza Plot: https://www.gb.nrao.edu/~rmaddale/Weather/AllOverviews.html#RestOverview \n\nGBT Guide: https://github.com/UCBerkeleySETI/bl_docs/wiki/NEW-GBT-Observing-guide
+DTEND:20231212T212413Z
+LOCATION:Green Bank\, WV
+DTSTART:20231212T140013Z
+SUMMARY:Target is in the sky!
+UID:5f2f8d84-f0c4-4a10-a299-96b4e5ef7545@5f2f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(l\, b) = (0.0\, 0.0) \n\nWeather: https://www.google.com/search?q=green+bank+weather \n\nGBT Pizza Plot: https://www.gb.nrao.edu/~rmaddale/Weather/AllOverviews.html#RestOverview \n\nGBT Guide: https://github.com/UCBerkeleySETI/bl_docs/wiki/NEW-GBT-Observing-guide
+DTEND:20231224T203613Z
+LOCATION:Green Bank\, WV
+DTSTART:20231224T131313Z
+SUMMARY:Target is in the sky!
+UID:685855d9-786f-4b1c-acc9-58a0adfcb496@6858.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(l\, b) = (0.0\, 0.0) \n\nWeather: https://www.google.com/search?q=green+bank+weather \n\nGBT Pizza Plot: https://www.gb.nrao.edu/~rmaddale/Weather/AllOverviews.html#RestOverview \n\nGBT Guide: https://github.com/UCBerkeleySETI/bl_docs/wiki/NEW-GBT-Observing-guide
+DTEND:20231215T211213Z
+LOCATION:Green Bank\, WV
+DTSTART:20231215T134813Z
+SUMMARY:Target is in the sky!
+UID:63db60f7-78fa-4e81-964d-1e45deaf3944@63db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(l\, b) = (0.0\, 0.0) \n\nWeather: https://www.google.com/search?q=green+bank+weather \n\nGBT Pizza Plot: https://www.gb.nrao.edu/~rmaddale/Weather/AllOverviews.html#RestOverview \n\nGBT Guide: https://github.com/UCBerkeleySETI/bl_docs/wiki/NEW-GBT-Observing-guide
+DTEND:20231202T220313Z
+LOCATION:Green Bank\, WV
+DTSTART:20231202T144013Z
+SUMMARY:Target is in the sky!
+UID:29199485-b6e9-495f-9c82-3d2d60dfc522@2919.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(l\, b) = (0.0\, 0.0) \n\nWeather: https://www.google.com/search?q=green+bank+weather \n\nGBT Pizza Plot: https://www.gb.nrao.edu/~rmaddale/Weather/AllOverviews.html#RestOverview \n\nGBT Guide: https://github.com/UCBerkeleySETI/bl_docs/wiki/NEW-GBT-Observing-guide
+DTEND:20231127T222313Z
+LOCATION:Green Bank\, WV
+DTSTART:20231127T145913Z
+SUMMARY:Target is in the sky!
+UID:8ceb0981-f8c2-41aa-b577-ec9488fc659b@8ceb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(l\, b) = (0.0\, 0.0) \n\nWeather: https://www.google.com/search?q=green+bank+weather \n\nGBT Pizza Plot: https://www.gb.nrao.edu/~rmaddale/Weather/AllOverviews.html#RestOverview \n\nGBT Guide: https://github.com/UCBerkeleySETI/bl_docs/wiki/NEW-GBT-Observing-guide
+DTEND:20231206T214713Z
+LOCATION:Green Bank\, WV
+DTSTART:20231206T142413Z
+SUMMARY:Target is in the sky!
+UID:06a2e9ab-f854-428b-9bea-7e7bb6243f56@06a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(l\, b) = (0.0\, 0.0) \n\nWeather: https://www.google.com/search?q=green+bank+weather \n\nGBT Pizza Plot: https://www.gb.nrao.edu/~rmaddale/Weather/AllOverviews.html#RestOverview \n\nGBT Guide: https://github.com/UCBerkeleySETI/bl_docs/wiki/NEW-GBT-Observing-guide
+DTEND:20231209T213513Z
+LOCATION:Green Bank\, WV
+DTSTART:20231209T141213Z
+SUMMARY:Target is in the sky!
+UID:c4339090-b1f9-4974-8d0e-b3340bef4fa3@c433.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(l\, b) = (0.0\, 0.0) \n\nWeather: https://www.google.com/search?q=green+bank+weather \n\nGBT Pizza Plot: https://www.gb.nrao.edu/~rmaddale/Weather/AllOverviews.html#RestOverview \n\nGBT Guide: https://github.com/UCBerkeleySETI/bl_docs/wiki/NEW-GBT-Observing-guide
+DTEND:20231213T212013Z
+LOCATION:Green Bank\, WV
+DTSTART:20231213T135613Z
+SUMMARY:Target is in the sky!
+UID:69877ffd-ac82-4a70-a6ef-64325af49230@6987.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(l\, b) = (0.0\, 0.0) \n\nWeather: https://www.google.com/search?q=green+bank+weather \n\nGBT Pizza Plot: https://www.gb.nrao.edu/~rmaddale/Weather/AllOverviews.html#RestOverview \n\nGBT Guide: https://github.com/UCBerkeleySETI/bl_docs/wiki/NEW-GBT-Observing-guide
+DTEND:20231217T210413Z
+LOCATION:Green Bank\, WV
+DTSTART:20231217T134113Z
+SUMMARY:Target is in the sky!
+UID:df35d1ea-916f-442f-8f95-d625ab4c1b76@df35.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(l\, b) = (0.0\, 0.0) \n\nWeather: https://www.google.com/search?q=green+bank+weather \n\nGBT Pizza Plot: https://www.gb.nrao.edu/~rmaddale/Weather/AllOverviews.html#RestOverview \n\nGBT Guide: https://github.com/UCBerkeleySETI/bl_docs/wiki/NEW-GBT-Observing-guide
+DTEND:20231221T204813Z
+LOCATION:Green Bank\, WV
+DTSTART:20231221T132513Z
+SUMMARY:Target is in the sky!
+UID:7c7eac25-d705-4d03-84bd-404656fdb58e@7c7e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(l\, b) = (0.0\, 0.0) \n\nWeather: https://www.google.com/search?q=green+bank+weather \n\nGBT Pizza Plot: https://www.gb.nrao.edu/~rmaddale/Weather/AllOverviews.html#RestOverview \n\nGBT Guide: https://github.com/UCBerkeleySETI/bl_docs/wiki/NEW-GBT-Observing-guide
+DTEND:20231220T205213Z
+LOCATION:Green Bank\, WV
+DTSTART:20231220T132913Z
+SUMMARY:Target is in the sky!
+UID:6d7ccfbb-8407-4a92-b1ae-240299446d6f@6d7c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(l\, b) = (0.0\, 0.0) \n\nWeather: https://www.google.com/search?q=green+bank+weather \n\nGBT Pizza Plot: https://www.gb.nrao.edu/~rmaddale/Weather/AllOverviews.html#RestOverview \n\nGBT Guide: https://github.com/UCBerkeleySETI/bl_docs/wiki/NEW-GBT-Observing-guide
+DTEND:20231129T221513Z
+LOCATION:Green Bank\, WV
+DTSTART:20231129T145113Z
+SUMMARY:Target is in the sky!
+UID:ebb035fc-af82-48c6-bd57-903793700257@ebb0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(l\, b) = (0.0\, 0.0) \n\nWeather: https://www.google.com/search?q=green+bank+weather \n\nGBT Pizza Plot: https://www.gb.nrao.edu/~rmaddale/Weather/AllOverviews.html#RestOverview \n\nGBT Guide: https://github.com/UCBerkeleySETI/bl_docs/wiki/NEW-GBT-Observing-guide
+DTEND:20231201T220713Z
+LOCATION:Green Bank\, WV
+DTSTART:20231201T144413Z
+SUMMARY:Target is in the sky!
+UID:da547147-f5cb-4b4c-b061-c4f0c0ee4b74@da54.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(l\, b) = (0.0\, 0.0) \n\nWeather: https://www.google.com/search?q=green+bank+weather \n\nGBT Pizza Plot: https://www.gb.nrao.edu/~rmaddale/Weather/AllOverviews.html#RestOverview \n\nGBT Guide: https://github.com/UCBerkeleySETI/bl_docs/wiki/NEW-GBT-Observing-guide
+DTEND:20231216T210813Z
+LOCATION:Green Bank\, WV
+DTSTART:20231216T134513Z
+SUMMARY:Target is in the sky!
+UID:4e1218ff-5dd0-41fb-814c-e4635bd77d09@4e12.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(l\, b) = (0.0\, 0.0) \n\nWeather: https://www.google.com/search?q=green+bank+weather \n\nGBT Pizza Plot: https://www.gb.nrao.edu/~rmaddale/Weather/AllOverviews.html#RestOverview \n\nGBT Guide: https://github.com/UCBerkeleySETI/bl_docs/wiki/NEW-GBT-Observing-guide
+DTEND:20231211T212813Z
+LOCATION:Green Bank\, WV
+DTSTART:20231211T140413Z
+SUMMARY:Target is in the sky!
+UID:be146077-83bd-4e0f-af87-3d92066dbd06@be14.org
+END:VEVENT
+END:VCALENDAR
